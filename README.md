@@ -3,8 +3,9 @@
 My name is Avash Adhikari and I am studying CSE @ UC Merced. I work at school for the I2G Program.
 
 I'm also:
- -  🤐 working on **SAPPHIRE** with my friends
- -  💰 learning database design by myself
+ - working on **SAPPHIRE** with my friends 🤐
+ - learning database design by myself 💰
+
 You can reach me at avashraj328@gmail.com
 <!--
 **avashraj/avashraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
