@@ -2,9 +2,8 @@
 
 My name is Avash Adhikari and I am studying CSE @ UC Merced. I work at school for the I2G Program.
 
-I'm also:
- - working on **SAPPHIRE** with my friends 🤐
- - building a smarter betting system by myself 💰
+I'm also working on **SAPPHIRE** with my friends 🤐
+
 
 You can reach me at avashraj328@gmail.com
 <!--
