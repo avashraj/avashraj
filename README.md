@@ -2,8 +2,6 @@
 
 My name is Avash Adhikari and I am studying CSE @ UC Merced. I work at school for the I2G Program.
 
-I'm also working on **anchor** with my friends 🤐
-
 
 You can reach me at avashraj328@gmail.com
 <!--
