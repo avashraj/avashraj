@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! 
 My name is Avash Adhikari and I'm a recent CS grad from UC Merced. I build software that makes life better, with a focus on AI-powered tools, performant code, and shipping things that actually help people.
 📩 avashraj328@gmail.com
 <!--
