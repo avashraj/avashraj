@@ -1,9 +1,6 @@
-## Hello ! 👋
-
-My name is Avash Adhikari and I am studying CSE @ UC Merced. I work at school for the I2G Program.
-
-
-You can reach me at avashraj328@gmail.com
+# Hello! 👋
+My name is Avash Adhikari and I'm a recent CS grad from UC Merced. I build software that makes life better, with a focus on AI-powered tools, clean code, and shipping things that actually help people.
+📩 avashraj328@gmail.com
 <!--
 **avashraj/avashraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
